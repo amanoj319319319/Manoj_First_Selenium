@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="HP" name="pytest" skipped="0" tests="2" time="41.080" timestamp="2020-02-10T00:00:14.761000"><testcase classname="B_Pytest.test_markers_1.Testexample1" file="B_Pytest\test_markers_1.py" line="18" name="test_Login" time="22.135"><system-out>Let&apos;s Kode It
+hai test_login method has been executed successfully
+</system-out></testcase><testcase classname="B_Pytest.test_markers_1.Testexample1" file="B_Pytest\test_markers_1.py" line="30" name="test_practice" time="18.667"><system-out>Practice | Let&apos;s Kode It
+hai test_login method has been executed successfully
+</system-out></testcase></testsuite></testsuites>

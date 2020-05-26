@@ -1,0 +1,56 @@
+1543712542251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Manoj\\AppData\\Local\\Temp\\rust_mozprofile.DVQ2yz8ldF5W"
+1543712553497	Marionette	INFO	Listening on port 51309
+[Child 9692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7524, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543712553561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 24: Error: 4101 (The given Experiment details was null)
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 147: unreachable code after return statement
+JavaScript error: https://suggest.expedia.com/api/v4/typeahead/?callback=cb_1543712563928_0&client=Homepage&siteid=1&guid=8f395e3d42824ef490b34ac56a472c9c&lob=FLIGHTS&locale=en_US&expuserid=-1&regiontype=95&ab=&dest=true&maxresults=10&features=nearby_airport%7Cta_hierarchy&originSearchString=Pune&format=jsonp&device=Desktop&browser=Firefox&personalize=true, line 1: ReferenceError: cb_1543712563928_0 is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-786429470, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-786429470, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-786429470, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-786429470, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-786429470, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-786429470, line 147: unreachable code after return statement
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+[Parent 7524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10336, Chrome_ChildThread] WARNING: pipe error: 1[Parent 628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromi1543712877262	Marionette	INFO	Stopped listening on port 51309
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/chrome/common/ipc_channel_win.cc, line 346
+[Child 10748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543712877704	Marionette	INFO	Stopped listening on port 50635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+4015	Marionette	INFO	Stopped listening on port 54446
+irefox/browser/omni.ja!/components/nsBrowserGlue.js:BG__beforeUIStartup:1029","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:BG_observe:731"]}] Barrier: profile-before-change
+1543176682839	Marionette	INFO	Stopped listening on port 51345
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

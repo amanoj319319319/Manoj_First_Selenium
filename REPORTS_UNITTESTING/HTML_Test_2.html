@@ -1,0 +1,24 @@
+
+Running tests... 
+----------------------------------------------------------------------
+ test_Login (UnitTesting_1.Login_Test) ... OK (24.252000)s
+ test_Practice (UnitTesting_1.Login_Test) ... OK (22.055000)s
+ test_Switch_to_alert_example (UnitTesting_2.Switch_Test) ... FAIL (16.797000)s
+
+======================================================================
+FAIL [16.797000s]: UnitTesting_2.Switch_Test.test_Switch_to_alert_example
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Manoj\PycharmProjects\FirstSeleniumTest\Tests\UnitTesting_2.py", line 17, in test_Switch_to_alert_example
+    self.assertEqual("practice ",self.driver.title,"web page title is not matched")
+AssertionError: web page title is not matched
+
+----------------------------------------------------------------------
+Ran 3 tests in 0:01:03
+
+FAILED
+ (Failures=1)
+
+Generating HTML reports... 
+reports\TestResults_UnitTesting_2.Switch_Test_2020-02-05_23-50-51.html
+reports\TestResults_UnitTesting_1.Login_Test_2020-02-05_23-50-51.html

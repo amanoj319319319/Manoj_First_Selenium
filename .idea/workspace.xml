@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9b56a9d-e012-4679-ac5b-ee72b9b0994b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XinKAeq4fkPqkCI9KErX7HcNMT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Manoj/PycharmProjects/FirstSeleniumTest/htmlreport.html" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manoj\PycharmProjects\FirstSeleniumTest\B_Pytest" />
+      <recent name="C:\Users\Manoj\PycharmProjects\FirstSeleniumTest\C_Pytest" />
+      <recent name="C:\Users\Manoj\PycharmProjects\FirstSeleniumTest\Tests" />
+      <recent name="C:\Users\Manoj\PycharmProjects\FirstSeleniumTest\Pytest_testing_framework" />
+      <recent name="C:\Users\Manoj\PycharmProjects\FirstSeleniumTest\Revision_always" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Testing1">
+    <configuration name="Java_script_execution" type="PythonConfigurationType" factoryName="Python">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sectiion_no_21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectiion_no_21/Java_script_execution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Numpy" type="PythonConfigurationType" factoryName="Python">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumpyLibrary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumpyLibrary/Numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Revision_section_21" type="PythonConfigurationType" factoryName="Python">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Revision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision/Revision_section_21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Testing1" type="PythonConfigurationType" factoryName="Python">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Testing1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests_On_Various browsers" type="PythonConfigurationType" factoryName="Python">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December/Tests_On_Various browsers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UnitTesting_Suite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/UnitTesting_Suite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generic_method_3" type="PythonConfigurationType" factoryName="Python">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/generic_method_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_Allure_Report" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Allure_Reports" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Allure_Reports/test_Allure_Report.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_Pytest_file" type="PythonConfigurationType" factoryName="Python">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Allure_Reports" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Allure_Reports/test_Pytest_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for UnitTesting_1.Login_Test.test_Login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;UnitTesting_1.Login_Test.test_Login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for UnitTesting_1.Login_Test.test_Practice" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FirstSeleniumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;UnitTesting_1.Login_Test.test_Practice&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Java_script_execution" />
+      <item itemvalue="Python.Numpy" />
+      <item itemvalue="Python.Revision_section_21" />
+      <item itemvalue="Python.Testing1" />
+      <item itemvalue="Python.Tests_On_Various browsers" />
+      <item itemvalue="Python.generic_method_3" />
+      <item itemvalue="Python.test_Pytest_file" />
+      <item itemvalue="Python.UnitTesting_Suite" />
+      <item itemvalue="Python.test_Allure_Report" />
+      <item itemvalue="Python tests.Unittests for UnitTesting_1.Login_Test.test_Login" />
+      <item itemvalue="Python tests.Unittests for UnitTesting_1.Login_Test.test_Practice" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.UnitTesting_Suite" />
+        <item itemvalue="Python tests.Unittests for UnitTesting_1.Login_Test.test_Practice" />
+        <item itemvalue="Python tests.Unittests for UnitTesting_1.Login_Test.test_Login" />
+        <item itemvalue="Python.test_Allure_Report" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9b56a9d-e012-4679-ac5b-ee72b9b0994b" name="Default Changelist" comment="" />
+      <created>1541834750246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541834750246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_UnitTesting_1_Login_Test_test_Practice - 2020.02.06 at 00h 11m 23s.xml">
+      <configuration name="Unittests for UnitTesting_1.Login_Test.test_Practice" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_UnitTesting_1_py - 2020.02.06 at 00h 13m 01s.xml">
+      <configuration name="Unittests in UnitTesting_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_UnitTesting_1_Login_Test - 2020.02.06 at 00h 16m 48s.xml">
+      <configuration name="Unittests for UnitTesting_1.Login_Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_UnitTesting_1_Login_Test_test_Login - 2020.02.06 at 00h 18m 25s.xml">
+      <configuration name="Unittests for UnitTesting_1.Login_Test.test_Login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_UnitTesting_1_Login_Test - 2020.02.06 at 00h 24m 14s.xml">
+      <configuration name="Unittests for UnitTesting_1.Login_Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_UnitTesting_1_Login_Test - 2020.02.06 at 00h 25m 51s.xml">
+      <configuration name="Unittests for UnitTesting_1.Login_Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_UnitTesting_2_Switch_Test - 2020.02.06 at 00h 37m 34s.xml">
+      <configuration name="Unittests for UnitTesting_2.Switch_Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_UnitTesting_1_Login_Test_test_Practice - 2020.02.06 at 00h 42m 29s.xml">
+      <configuration name="Unittests for UnitTesting_1.Login_Test.test_Practice" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_UnitTesting_1_Login_Test_test_Login - 2020.02.07 at 10h 23m 19s.xml">
+      <configuration name="Unittests for UnitTesting_1.Login_Test.test_Login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_UnitTesting_1_Login_Test_test_Practice - 2020.02.07 at 10h 24m 29s.xml">
+      <configuration name="Unittests for UnitTesting_1.Login_Test.test_Practice" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="0" key="SettingsEditor" timestamp="1582170600796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="143" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582170600796" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/B_Pytest/test_case_2.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
