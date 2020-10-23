@@ -4,3 +4,5 @@ print ("Hi java ... how are you ...")
 print ("python is easy ")
 print ("java is also easy language ...")
 print ("database is easy concept ")
+print ("hi python guys .. ")
+
