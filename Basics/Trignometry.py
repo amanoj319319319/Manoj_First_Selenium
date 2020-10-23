@@ -6,3 +6,8 @@ print ("java is also easy language ...")
 print ("database is easy concept ")
 print ("hi python guys .. ")
 
+
+def addition(a,b):
+    c=(a+b)
+    print ("The value of c is :",c)
+addition(10,20)
