@@ -11,3 +11,8 @@ def addition(a,b):
     c=(a+b)
     print ("The value of c is :",c)
 addition(10,20)
+
+def subraction(a,b):
+    c=(a-b)
+    print ("The value of c is :",c)
+addition(100,20)
