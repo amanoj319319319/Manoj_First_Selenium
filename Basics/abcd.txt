@@ -1,0 +1,5 @@
+Telugu
+English
+Hindi
+Maths
+Science
