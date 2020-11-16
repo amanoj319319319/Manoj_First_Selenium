@@ -289,8 +289,13 @@
       <item itemvalue="Python.generic_method_3" />
       <item itemvalue="Python.test_Pytest_file" />
       <item itemvalue="Python.BasicPageInfo" />
+<<<<<<< HEAD
       <item itemvalue="Python.Trignometry" />
       <item itemvalue="Python.UnitTesting_Suite" />
+=======
+      <item itemvalue="Python.UnitTesting_Suite" />
+      <item itemvalue="Python.test_Allure_Report" />
+>>>>>>> 04c28c6ecd666decff1b48fd9c21db5631567aae
       <item itemvalue="Python tests.Unittests for UnitTesting_1.Login_Test.test_Login" />
       <item itemvalue="Python tests.Unittests for UnitTesting_1.Login_Test.test_Practice" />
     </list>
